@@ -1,0 +1,7 @@
+string title
+string artist
+string genre
+float64 duration
+---
+bool success
+string message
